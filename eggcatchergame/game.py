@@ -23,7 +23,7 @@ egg_interval = 4000
 difficulty_factor = 0.95
 
 catcher_color = 'blue'
-catcher_width = 100
+catcher_width = 60
 catcher_height = 100
 catcher_start_x = canvas_width / 2 - catcher_width / 2
 catcher_start_y = canvas_height -catcher_height - 20
